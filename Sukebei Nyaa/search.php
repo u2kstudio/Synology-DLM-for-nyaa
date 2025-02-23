@@ -1,6 +1,6 @@
 <?php
 class TorrentSearchSukebeiNyaa {
-	private $qurl = 'https://sukebei.nyaa.si/?page=rss&term=';
+	private $qurl = 'https://sukebei.nyaa.mom/?page=rss&term=';
 	public function __construct() {
 	}
 

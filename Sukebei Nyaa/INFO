@@ -1,9 +1,9 @@
 {
 "name": "sukebeinyaa",
-"displayname": "Sukebei Nyaa.si",
+"displayname": "Sukebei Nyaa.mom",
 "description": "Sukebei Nyaa P2P Search",
 "version": "1.0",
-"site": "https://sukebei.nyaa.si",
+"site": "https://sukebei.nyaa.mom",
 "module": "search.php",
 "type": "search",
 "class": "TorrentSearchSukebeiNyaa"
